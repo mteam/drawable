@@ -1,0 +1,8 @@
+{
+  "name": "drawable",
+  "repo": "mteam/drawable",
+  "version": "0.1.0",
+  "scripts": [
+    "index.js"
+  ]
+}
